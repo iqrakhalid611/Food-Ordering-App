@@ -1,0 +1,40 @@
+C:\Users\ok\Desktop\ordering system app\ordering system app\bin\Debug\ordering system app.exe.config
+C:\Users\ok\Desktop\ordering system app\ordering system app\bin\Debug\ordering system app.exe
+C:\Users\ok\Desktop\ordering system app\ordering system app\bin\Debug\ordering system app.pdb
+C:\Users\ok\Desktop\ordering system app\ordering system app\obj\Debug\ordering_system_app.Form1.resources
+C:\Users\ok\Desktop\ordering system app\ordering system app\obj\Debug\ordering_system_app.Properties.Resources.resources
+C:\Users\ok\Desktop\ordering system app\ordering system app\obj\Debug\ordering system app.csproj.GenerateResource.Cache
+C:\Users\ok\Desktop\ordering system app\ordering system app\obj\Debug\ordering system app.exe
+C:\Users\ok\Desktop\ordering system app\ordering system app\obj\Debug\ordering system app.pdb
+C:\Users\ok\Desktop\ordering system app\ordering system app\obj\Debug\ordering_system_app.Form2.resources
+C:\Users\ok\Desktop\ordering system app\ordering system app\obj\Debug\ordering_system_app.Form3.resources
+C:\Users\ok\Desktop\ordering system app\ordering system app\obj\Debug\ordering_system_app.app2UserControl2.resources
+C:\Users\ok\Desktop\ordering system app\ordering system app\obj\Debug\ordering_system_app.AppUserControl2.resources
+C:\Users\ok\Desktop\ordering system app\ordering system app\obj\Debug\ordering_system_app.Form4.resources
+C:\Users\ok\Desktop\ordering system app\ordering system app\obj\Debug\ordering system app.csprojResolveAssemblyReference.cache
+C:\Users\ok\Desktop\ordering system app\ordering system app\obj\Debug\ordering_system_app.Form5.resources
+C:\Users\ok\Desktop\ordering system app\ordering system app\obj\Debug\ordering_system_app.Form6.resources
+F:\Lab work\backup\ordering system app\bin\Debug\ordering system app.exe.config
+F:\Lab work\backup\ordering system app\obj\Debug\ordering system app.exe
+F:\Lab work\backup\ordering system app\obj\Debug\ordering system app.pdb
+F:\Lab work\backup\ordering system app\bin\Debug\ordering system app.exe
+F:\Lab work\backup\ordering system app\bin\Debug\ordering system app.pdb
+F:\Lab work\backup\ordering system app\obj\Debug\ordering system app.csprojResolveAssemblyReference.cache
+F:\Lab work\backup\ordering system app\obj\Debug\ordering_system_app.app2UserControl2.resources
+F:\Lab work\backup\ordering system app\obj\Debug\ordering_system_app.AppUserControl2.resources
+F:\Lab work\backup\ordering system app\obj\Debug\ordering_system_app.Form1.resources
+F:\Lab work\backup\ordering system app\obj\Debug\ordering_system_app.Form2.resources
+F:\Lab work\backup\ordering system app\obj\Debug\ordering_system_app.Form3.resources
+F:\Lab work\backup\ordering system app\obj\Debug\ordering_system_app.Form4.resources
+F:\Lab work\backup\ordering system app\obj\Debug\ordering_system_app.Form5.resources
+F:\Lab work\backup\ordering system app\obj\Debug\ordering_system_app.Form6.resources
+F:\Lab work\backup\ordering system app\obj\Debug\ordering_system_app.Properties.Resources.resources
+F:\Lab work\backup\ordering system app\obj\Debug\ordering system app.csproj.GenerateResource.Cache
+F:\Lab work\backup\ordering system app\obj\Debug\ordering_system_app.Form7.resources
+F:\Lab work\backup\ordering system app\obj\Debug\ordering_system_app.Form8.resources
+F:\Lab work\backup\ordering system app\obj\Debug\ordering_system_app.Form9.resources
+F:\Lab work\backup\ordering system app\obj\Debug\ordering_system_app.Form10.resources
+F:\Lab work\backup\ordering system app\obj\Debug\ordering_system_app.Form11.resources
+F:\Lab work\food ordering system\ordering system app\bin\Debug\ordering system app.exe.config
+F:\Lab work\food ordering system\ordering system app\obj\Debug\ordering system app.exe
+F:\Lab work\food ordering system\ordering system app\obj\Debug\ordering system app.pdb
